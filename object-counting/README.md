@@ -1,6 +1,8 @@
 This is a C++ implementation of an object counting program using classical computer vision operations such dilation, thinning etc... This uses OpenCV methods. 
 
 To compile and run:
+
+- mkdir object-counting/bin
 - cd  object-counting/bin
 - cmake ..
 - make
