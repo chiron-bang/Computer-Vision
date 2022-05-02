@@ -18,5 +18,7 @@ To compile and run:
 
 After running, in the *bin* folder, you will find a text file (*output.txt*) which contains images names and their predicted class.
 
+**NOTE:** The *test* folder which contains the test images should be created and placed at the same level as *src* and *bin* folders.
+
 
 **Credit: This program was written for a homework in the Applied Computer Vision class taught by Dr Suryaprakash Kompalli at CMU-Africa (in Kigali, Rwanda).**
