@@ -14,4 +14,4 @@ To compile and run:
 
 **Credit: This program was written for a homework in the Applied Computer Vision class taught by Dr Suryaprakash Kompalli at CMU-Africa (in Kigali, Rwanda).**
 
-**NOTE:** Model performances are not that good (Deadlines were tight so I trained the models only to get barely acceptable performances :/) but the code is still helpful because at the time I wrote it there was few example codes on BIF with OpenCV. 
+**NOTE:** Model performances are not that good (Deadlines were tight so I trained the model only to get barely acceptable performances :/) but the code is still helpful because at the time I wrote it there was few example codes on BIF with OpenCV. [Hit me up](mailto:chironbang@gmail.com) to obtain the training code.
