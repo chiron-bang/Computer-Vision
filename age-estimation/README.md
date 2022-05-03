@@ -1,6 +1,6 @@
 **Age estimation**
 
-With this program you can estimate a person's age with a face image as input. This uses [Bio Inspired Features](https://ieeexplore.ieee.org/document/5206681) (BIF) for feature extraction and a neural network for age estimation. There are two different models (referenced by 1 and 2 for method number). 
+With this program you can estimate a person's age with a face image as input. This uses [Bio Inspired Features](https://ieeexplore.ieee.org/document/5206681) (BIF) for feature extraction and a neural network for age estimation. There are two different models (referenced by 1 or 2 for method number). 
 
 To compile and run:
 
