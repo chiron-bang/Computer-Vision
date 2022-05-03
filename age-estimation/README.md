@@ -13,4 +13,5 @@ To compile and run:
 *outfile.txt* will contains images file names and the estimated age. Image names contain the dob and the date at which the image was taken which will help to compare model performances. 
 
 **Credit: This program was written for a homework in the Applied Computer Vision class taught by Dr Suryaprakash Kompalli at CMU-Africa (in Kigali, Rwanda).**
+
 **NOTE:** Model performances are not that good (Deadlines were tight so I trained the models only to get barely acceptable performances :/) but the code is still helpful because at the time I wrote it there was few example codes on BIF with OpenCV. 
